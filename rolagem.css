@@ -21,7 +21,7 @@ header{
 }
 header nav ul{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 header nav ul a{
     color: white;
